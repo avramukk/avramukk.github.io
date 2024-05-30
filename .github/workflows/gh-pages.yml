@@ -22,9 +22,7 @@ jobs:
           extended: true
 
       - name: Setup public
-        run: |
-          rm -rf ./public/*
-          git worktree add -B gh-pages ./public origin/gh-pages
+        run: git worktree add -B gh-pages ./public origin/gh-pages
 
       - name: Clean public
         run: rm -rf ./public/*
