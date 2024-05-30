@@ -28,7 +28,7 @@ jobs:
         run: rm -rf ./exampleSite/public/*
 
       - name: Build
-        run: hugo -s exampleSite --baseURL https://avramukk.github.io/mykolaavramuk --themesDir=../.. --minify --environment production
+        run: hugo --baseURL https://avramukk.github.io/mykolaavramuk --minify --environment production --themesDir=.
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
