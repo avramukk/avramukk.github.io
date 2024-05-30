@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emoji on Monochrome</title>
-    <link>http://localhost:1313/mykolaavramuk/tags/emoji/</link>
+    <link>http://localhost:1313/tags/emoji/</link>
     <description>Recent content in Emoji on Monochrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/mykolaavramuk/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/mykolaavramuk/en/posts/emoji-support/</link>
+      <link>http://localhost:1313/en/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mykolaavramuk/en/posts/emoji-support/</guid>
+      <guid>http://localhost:1313/en/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/mykolaavramuk/posts/emoji-support/</link>
+      <link>http://localhost:1313/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mykolaavramuk/posts/emoji-support/</guid>
+      <guid>http://localhost:1313/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/mykolaavramuk/ua/posts/emoji-support/</link>
+      <link>http://localhost:1313/ua/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mykolaavramuk/ua/posts/emoji-support/</guid>
+      <guid>http://localhost:1313/ua/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     

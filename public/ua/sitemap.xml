@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/mykolaavramuk/ua/categories/</loc>
+    <loc>http://localhost:1313/ua/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/mykolaavramuk/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/mykolaavramuk/zh-tw/categories/"
+                href="http://localhost:1313/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost:1313/mykolaavramuk/ua/categories/"
+                href="http://localhost:1313/ua/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/mykolaavramuk/ua/</loc>
+    <loc>http://localhost:1313/ua/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/mykolaavramuk/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/mykolaavramuk/zh-tw/"
+                href="http://localhost:1313/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost:1313/mykolaavramuk/ua/"
+                href="http://localhost:1313/ua/"
                 />
   </url><url>
-    <loc>http://localhost:1313/mykolaavramuk/ua/series/</loc>
+    <loc>http://localhost:1313/ua/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/mykolaavramuk/series/"
+                href="http://localhost:1313/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/mykolaavramuk/zh-tw/series/"
+                href="http://localhost:1313/zh-tw/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost:1313/mykolaavramuk/ua/series/"
+                href="http://localhost:1313/ua/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/mykolaavramuk/ua/tags/</loc>
+    <loc>http://localhost:1313/ua/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/mykolaavramuk/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/mykolaavramuk/zh-tw/tags/"
+                href="http://localhost:1313/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost:1313/mykolaavramuk/ua/tags/"
+                href="http://localhost:1313/ua/tags/"
                 />
   </url>
 </urlset>
