@@ -11,11 +11,6 @@
   <sitemap>
     <loc>http://localhost:1313/ua/sitemap.xml</loc>
     
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/zh-tw/sitemap.xml</loc>
-    
       <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     
   </sitemap>

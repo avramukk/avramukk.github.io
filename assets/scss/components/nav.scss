@@ -15,14 +15,14 @@
 
       > ul.pure-menu-children {
         left: 0;
-        top: 27px;
+        top: 22px;
         width: inherit;
       }
     }
 
     .navbar-item {
       margin: 0 .5rem 0 0;
-      border-bottom: 2px solid transparent;
+      border-bottom: 1px solid transparent;
 
       > a.pure-menu-link {
         @include font-medium;

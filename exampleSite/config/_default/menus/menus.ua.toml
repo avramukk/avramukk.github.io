@@ -1,5 +1,0 @@
-[[navbar]]
-  identifier = "posts"
-  name = "пости"
-  url = "/ua/posts/"
-  weight = 1

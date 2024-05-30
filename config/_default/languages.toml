@@ -1,11 +1,11 @@
 [en]
 contentDir = "content/en"
-languageName = "English"
+languageName = "en"
 languageCode = "en"
 weight = 1
 
-[zh-tw]
+[ua]
 contentDir = "content/ua"
-languageName = "українська"
+languageName = "ua"
 languageCode = "uk-UA"
 weight = 2

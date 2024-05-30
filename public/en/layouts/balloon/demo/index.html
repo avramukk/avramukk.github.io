@@ -27,7 +27,7 @@
     
 
     
-    <meta name="author" content="kaiiiz" />
+    <meta name="author" content="avramukk" />
     
 
     
@@ -57,7 +57,7 @@ Go to single page demo">
     
     <script>
         if (!('theme' in localStorage)) {
-            localStorage.theme = 'light';
+            localStorage.theme = 'dark';
         }
 
         if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
@@ -114,7 +114,6 @@ Go to single page demo">
             <div id="sidebar">
                 <ul><li>
                             <a href="/setup/">Setup</a></li><li>
-                            <a href="/changelog/">Changelog</a></li><li>
                             <a href="/configuration/">Configuration</a>
     <ul>
         
@@ -333,13 +332,14 @@ Go to single page demo">
     </ul>
 </li><li>
                             <a href="/shortcodes/">Shortcodes</a></li><li>
-                            <a href="/posts/">Posts</a></li></ul>
+                            <a href="/posts/">Posts</a></li><li>
+                            <a href="en/about/">About</a></li></ul>
             </div>
         </div>
     
         <div class="brand">
             <div>
-                <a href="/">Monochrome</a>
+                <a href="/">avramukk</a>
             </div>
         </div>
     </div>
@@ -420,16 +420,16 @@ Go to single page demo">
 </svg>
 
 </svg>
-                            <span class="dropdown-desc">English</span>
+                            <span class="dropdown-desc">en</span>
                         </div>
                         <ul class="pure-menu-children">
                             
                             <li class="pure-menu-item">
-                                <a href="http://localhost:1313/" class="pure-menu-link">English</a>
+                                <a href="http://localhost:1313/" class="pure-menu-link">en</a>
                             </li>
                             
                             <li class="pure-menu-item">
-                                <a href="http://localhost:1313/zh-tw/" class="pure-menu-link">українська</a>
+                                <a href="http://localhost:1313/zh-tw/" class="pure-menu-link">ua</a>
                             </li>
                             
                             <li class="pure-menu-item">
@@ -447,10 +447,6 @@ Go to single page demo">
     <ul class="pure-menu-list"><li class="navbar-item pure-menu-item ">
                     
                         <a href="/setup/" class="pure-menu-link">Setup</a>
-                    
-                </li><li class="navbar-item pure-menu-item ">
-                    
-                        <a href="/changelog/" class="pure-menu-link">Changelog</a>
                     
                 </li><li class="navbar-item navbar-dropdown pure-menu-item pure-menu-has-children pure-menu-allow-hover ">
                     
@@ -672,6 +668,10 @@ Go to single page demo">
                 </li><li class="navbar-item pure-menu-item ">
                     
                         <a href="/posts/" class="pure-menu-link">Posts</a>
+                    
+                </li><li class="navbar-item pure-menu-item ">
+                    
+                        <a href="en/about/" class="pure-menu-link">About</a>
                     
                 </li></ul>
 </nav>
@@ -993,7 +993,7 @@ Go to single page demo">
             </div>
         </main>
 <footer>
-    <article>Copyright © 2021-2024 by kaiiiz</article>
+    <article>Copyright © 2021-2024 by avramukk</article>
 </footer>
 
 </body>

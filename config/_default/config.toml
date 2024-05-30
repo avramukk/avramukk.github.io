@@ -1,6 +1,6 @@
 baseURL = "https://avramukk.com"
 languageCode = "en"
-title = "Monochrome"
+title = "avramukk"
 theme = "hugo-theme-monochrome"
 defaultContentLanguage = "en"
 enableEmoji = true

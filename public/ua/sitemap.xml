@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/ua/categories/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -11,32 +12,76 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
                 href="http://localhost:1313/ua/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ua/</loc>
+    <loc>http://localhost:1313/ua/tags/css/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/"
+                href="http://localhost:1313/ua/tags/css/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/tags/html/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ua"
-                href="http://localhost:1313/ua/"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/tags/html/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/tags/markdown/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/tags/markdown/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/posts/markdown-syntax/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/posts/markdown-syntax/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/posts/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/posts/"
                 />
   </url><url>
     <loc>http://localhost:1313/ua/series/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,15 +90,24 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
                 href="http://localhost:1313/ua/series/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ua/categories/syntax/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/categories/syntax/"
+                />
+  </url><url>
     <loc>http://localhost:1313/ua/tags/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -62,12 +116,150 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/tags/"
+                href="http://localhost:1313/ua/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/categories/themes/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ua"
-                href="http://localhost:1313/ua/tags/"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/categories/themes/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/series/themes-guide/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/themes-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/series/themes-guide/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/tags/privacy/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/tags/privacy/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/posts/rich-content/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/posts/rich-content/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/tags/shortcodes/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/tags/shortcodes/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/posts/placeholder-text/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/placeholder-text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/posts/placeholder-text/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/tags/text/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/tags/text/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/posts/math-typesetting/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/math-typesetting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/posts/math-typesetting/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/tags/emoji/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/emoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/tags/emoji/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/posts/emoji-support/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/emoji-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/posts/emoji-support/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/"
                 />
   </url>
 </urlset>
