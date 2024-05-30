@@ -5,7 +5,7 @@ languageCode = "en"
 weight = 1
 
 [zh-tw]
-contentDir = "content/zh-tw"
-languageName = "正體中文"
-languageCode = "zh-tw"
+contentDir = "content/ua"
+languageName = "українська"
+languageCode = "uk-UA"
 weight = 2
