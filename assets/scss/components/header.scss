@@ -26,7 +26,7 @@ header {
       align-items: center;
   
       a {
-        @include text-3xl;
+        @include font-normal;
         @include font-bold;
         color: var(--color-text);
       }
@@ -95,7 +95,7 @@ header {
       }
 
       .pure-menu-children {
-        left: auto;
+        left: 0;
         right: 0;
       }
     }

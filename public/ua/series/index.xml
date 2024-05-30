@@ -5,16 +5,6 @@
     <link>http://localhost:1313/ua/series/</link>
     <description>Recent content in Series on avramukk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>uk-UA</language>
-    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ua/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Themes Guide</title>
-      <link>http://localhost:1313/ua/series/themes-guide/</link>
-      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/ua/series/themes-guide/</guid>
-      <description></description>
-    </item>
-    
+    <language>uk-UA</language><atom:link href="http://localhost:1313/ua/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

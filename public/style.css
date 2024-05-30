@@ -337,7 +337,7 @@ html[data-theme="light"] {
   --color-navbar-item-in-section: #525252; }
 
 html[data-theme="dark"] {
-  --color-text: #ededed;
+  --color-text: #d4d4d4;
   --color-text-secondary: #8b8b8b;
   --color-text-footer: #a3a3a3;
   --color-text-mark: #171717;
@@ -357,7 +357,7 @@ html[data-theme="dark"] {
 html {
   color: var(--color-text);
   background: var(--color-background);
-  font-size: 13px; }
+  font-size: 15px; }
 
 a {
   color: var(--color-link);
@@ -365,7 +365,7 @@ a {
 
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
-  font-family: system-ui,-apple-system,segoe ui,Roboto,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji; }
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
 
 code, kbd, pre {
   font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace; }
@@ -879,10 +879,7 @@ header {
       display: flex;
       align-items: center; }
       header #header_left .brand a {
-        font-size: 1.5rem;
-        /* 24px */
-        line-height: 2rem;
-        /* 32px */
+        font-weight: 400;
         font-weight: 700;
         color: var(--color-text); }
     header #header_left #sidebar_btn {
@@ -924,7 +921,7 @@ header {
         header .toolbox #translation_tool .dropdown-btn .dropdown-desc {
           display: block; } }
     header .toolbox #translation_tool .pure-menu-children {
-      left: auto;
+      left: 0;
       right: 0; }
 
 footer {
@@ -1085,7 +1082,7 @@ https://github.com/pure-css/pure/blob/master/LICENSE
   background-color: var(--color-background-hover); }
 
 .pure-menu-link:hover, .pure-menu-link:focus {
-  background-color: var(--color-background-hover); }
+  background-color: var(--color-background); }
 
 .pure-menu-selected > .pure-menu-link {
   color: var(--color-navbar-item-active); }

@@ -39,7 +39,7 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-  --color-text: #{$gray-150};
+  --color-text: #{$gray-300};
   --color-text-secondary: #{$gray-450};
   --color-text-footer: #{$gray-400};
   --color-text-mark: #{$gray-900};
@@ -62,7 +62,7 @@ html[data-theme="dark"] {
 html {
   color: var(--color-text);
   background: var(--color-background);
-  font-size: 13px;
+  font-size: 15px;
 }
 
 a {

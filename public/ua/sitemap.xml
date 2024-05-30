@@ -2,60 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ua/categories/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/ua/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ua/tags/css/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/ua/tags/css/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ua/tags/html/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/ua/tags/html/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ua/tags/markdown/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/ua/tags/markdown/"
-                />
-  </url><url>
     <loc>http://localhost:1313/ua/posts/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <lastmod>2024-05-30T19:32:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,73 +15,8 @@
                 href="http://localhost:1313/ua/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ua/series/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/ua/series/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ua/categories/syntax/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/ua/categories/syntax/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ua/tags/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/ua/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ua/categories/themes/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/ua/categories/themes/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ua/series/themes-guide/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/series/themes-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/ua/series/themes-guide/"
-                />
-  </url><url>
     <loc>http://localhost:1313/ua/posts/markdown-syntax/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <lastmod>2024-05-30T19:32:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -182,6 +65,32 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="http://localhost:1313/ua/tags/shortcodes/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/tags/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/tags/markdown/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/tags/markdown/"
                 />
   </url><url>
     <loc>http://localhost:1313/ua/posts/placeholder-text/</loc>
@@ -250,7 +159,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ua/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <lastmod>2024-05-30T19:32:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -260,6 +169,30 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="http://localhost:1313/ua/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/series/"
                 />
   </url>
 </urlset>
