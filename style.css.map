@@ -1,9 +1,9 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/runner/work/hugo-theme-monochrome/hugo-theme-monochrome/exampleSite",
+	"sourceRoot": "/home/runner/work/mykolaavramuk/mykolaavramuk",
 	"sources": [
-		"/home/runner/work/hugo-theme-monochrome/hugo-theme-monochrome/assets/scss/core.scss",
+		"assets/scss/core.scss",
 		"assets/scss/purecss/_base.scss",
 		"assets/scss/mixins/text.scss",
 		"assets/scss/mixins/margin.scss",
