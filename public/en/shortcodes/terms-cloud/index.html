@@ -1,0 +1,1043 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='http://localhost:1313/favicon.ico' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Terms Cloud - Monochrome</title>
+
+    
+
+    
+
+    
+    <meta name="author" content="kaiiiz" />
+    
+
+    
+        <meta property="og:url" content="http://localhost:1313/en/shortcodes/terms-cloud/">
+  <meta property="og:site_name" content="Monochrome">
+  <meta property="og:title" content="Terms Cloud">
+  <meta property="og:description" content=" Terms Cloud Render terms cloud, hugo supports tag and category terms by default, if you want to add your custom terms. Follow the instructions in the document.
+Usage {{&lt; terms-cloud terms=&#34;&#34; sortby=&#34;&#34; order=&#34;&#34; /&gt;}} Paramters:
+terms: terms name sortby: count or alphabetical (default: count) order: asc or desc (default: asc) Examples {{&lt; terms-cloud terms=&#34;series&#34; &gt;}} Themes Guide (3) {{&lt; terms-cloud terms=&#34;tags&#34; order=&#34;desc&#34; &gt;}} Markdown (6) Css (3) Emoji (3) Html (3) Privacy (3) Shortcodes (3) Text (3) Index (2) {{&lt; terms-cloud terms=&#34;tags&#34; sortby=&#34;alphabetical&#34; &gt;}} Css (3) Emoji (3) Html (3) Index (2) Markdown (6) Privacy (3) Shortcodes (3) Text (3) ">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="en">
+
+    
+
+    
+        
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Terms Cloud">
+  <meta name="twitter:description" content=" Terms Cloud Render terms cloud, hugo supports tag and category terms by default, if you want to add your custom terms. Follow the instructions in the document.
+Usage {{&lt; terms-cloud terms=&#34;&#34; sortby=&#34;&#34; order=&#34;&#34; /&gt;}} Paramters:
+terms: terms name sortby: count or alphabetical (default: count) order: asc or desc (default: asc) Examples {{&lt; terms-cloud terms=&#34;series&#34; &gt;}} Themes Guide (3) {{&lt; terms-cloud terms=&#34;tags&#34; order=&#34;desc&#34; &gt;}} Markdown (6) Css (3) Emoji (3) Html (3) Privacy (3) Shortcodes (3) Text (3) Index (2) {{&lt; terms-cloud terms=&#34;tags&#34; sortby=&#34;alphabetical&#34; &gt;}} Css (3) Emoji (3) Html (3) Index (2) Markdown (6) Privacy (3) Shortcodes (3) Text (3) ">
+
+    <link rel="stylesheet" href="/style.css" integrity="">
+
+
+
+    <link rel="stylesheet" href="/lib/css/prism.css" integrity="">
+
+
+
+    
+    <script>
+        if (!('theme' in localStorage)) {
+            localStorage.theme = 'light';
+        }
+
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+            document.documentElement.setAttribute("data-theme", "light");
+        }
+    </script>
+<script defer src="/js/header.js" integrity=""></script>
+
+
+
+    <script defer src="/js/zooming.js" integrity=""></script>
+
+
+
+
+
+
+
+    
+        
+
+        
+        
+
+        
+        
+            
+        
+
+        <script defer src="/js/prism.js" integrity="" data-manual></script>
+    
+
+
+
+    
+    
+    
+    <script defer src="/js/search-en.js" integrity=""></script>
+
+
+
+
+<link rel="stylesheet" href="http://localhost:1313/user.css">
+
+    
+</head>
+<body><header>
+    <div id="header_left">
+        <div id="sidebar_btn">
+            <input type="checkbox" id="sidebar_btn_input" class="hidden" />
+            <label id="sidebar_btn_label" for="sidebar_btn_input">
+                <svg id="menu_icon" width="26px" height="26px" viewBox="0 0 24 24">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24" height="24" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+</svg>
+
+</svg>
+            </label>
+            <label id="sidebar_canvas_overlay_wrapper" for="sidebar_btn_input">
+                <div id="sidebar_canvas_overlay"></div>
+            </label>
+            <div id="sidebar">
+                <ul><li>
+                            <a href="/setup/">Setup</a></li><li>
+                            <a href="/changelog/">Changelog</a></li><li>
+                            <a href="/configuration/">Configuration</a>
+    <ul>
+        
+
+            
+                <li>
+                    
+                        <a href="/configuration/site">Site Settings</a>
+                    
+                </li>
+            
+        
+
+            
+                <li>
+                    
+                        <a href="/configuration/theme">Theme Settings</a>
+                    
+                </li>
+            
+        
+
+            
+                <li>
+                    
+                        <a href="/configuration/page">Page Settings</a>
+                    
+                </li>
+            
+        
+    </ul>
+</li><li>
+                            <a href="/layouts/">Layouts</a>
+    <ul>
+        
+
+            
+                <li>
+                    
+                        <span><a href="/layouts/balloon">Balloon</a></span>
+                    
+    <ul>
+        
+
+            
+                <li>
+                    
+                        <a href="/layouts/balloon/demo">Demo</a>
+                    
+                </li>
+            
+        
+
+            
+                <li>
+                    
+                        <a href="/layouts/balloon/docs">Document</a>
+                    
+                </li>
+            
+        
+    </ul>
+</li>
+            
+        
+
+            
+                <li>
+                    
+                        <span><a href="/layouts/blank">Blank</a></span>
+                    
+    <ul>
+        
+
+            
+                <li>
+                    
+                        <a href="/layouts/blank/demo">Demo</a>
+                    
+                </li>
+            
+        
+
+            
+                <li>
+                    
+                        <a href="/layouts/blank/docs">Document</a>
+                    
+                </li>
+            
+        
+    </ul>
+</li>
+            
+        
+
+            
+                <li>
+                    
+                        <span><a href="/layouts/bookcase">Bookcase</a></span>
+                    
+    <ul>
+        
+
+            
+                <li>
+                    
+                        <a href="/layouts/bookcase/demo">Demo</a>
+                    
+                </li>
+            
+        
+
+            
+                <li>
+                    
+                        <a href="/layouts/bookcase/docs">Document</a>
+                    
+                </li>
+            
+        
+    </ul>
+</li>
+            
+        
+
+            
+                <li>
+                    
+                        <span><a href="/layouts/gallery">Gallery</a></span>
+                    
+    <ul>
+        
+
+            
+                <li>
+                    
+                        <a href="/layouts/gallery/demo">Demo</a>
+                    
+                </li>
+            
+        
+
+            
+                <li>
+                    
+                        <a href="/layouts/gallery/docs">Document</a>
+                    
+                </li>
+            
+        
+    </ul>
+</li>
+            
+        
+
+            
+                <li>
+                    
+                        <span><a href="/layouts/list">List</a></span>
+                    
+    <ul>
+        
+
+            
+                <li>
+                    
+                        <a href="/layouts/list/demo">Demo</a>
+                    
+                </li>
+            
+        
+
+            
+                <li>
+                    
+                        <a href="/layouts/list/docs">Document</a>
+                    
+                </li>
+            
+        
+    </ul>
+</li>
+            
+        
+
+            
+                <li>
+                    
+                        <span><a href="/layouts/postcard">Postcard</a></span>
+                    
+    <ul>
+        
+
+            
+                <li>
+                    
+                        <a href="/layouts/postcard/demo">Demo</a>
+                    
+                </li>
+            
+        
+
+            
+                <li>
+                    
+                        <a href="/layouts/postcard/docs">Document</a>
+                    
+                </li>
+            
+        
+    </ul>
+</li>
+            
+        
+    </ul>
+</li><li>
+                            <a href="/shortcodes/">Shortcodes</a></li><li>
+                            <a href="/posts/">Posts</a></li></ul>
+            </div>
+        </div>
+    
+        <div class="brand">
+            <div>
+                <a href="/">Monochrome</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="toolbox">
+        <div id="theme_tool">
+            <svg id="dark_mode_btn" class="toolbox-btn" width="18px" height="18px" viewBox="0 0 24 24">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24" height="24" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+</svg>
+
+</svg>
+            <svg id="light_mode_btn" class="toolbox-btn" width="18px" height="18px" viewBox="0 0 24 24">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24" height="24" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+</svg>
+
+</svg>
+        </div>
+
+        
+            <div id="search_tool">
+                <svg id="search_btn" class="toolbox-btn" width="18px" height="18px" viewBox="0 0 24 24">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24" height="24" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+</svg>
+
+</svg><div id="search_menu_wrapper" class="hidden">
+    <div id="search_menu">
+        <div id="search_menu_toolbar">
+            <div id="search_menu_input_wrapper">
+                <input id="search_menu_input" type="text" placeholder='Search Posts'>
+            </div>
+            <div id="search_menu_close_btn">
+                <svg width="18px" height="18px" viewBox="0 0 24 24">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24" height="24" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line>
+</svg>
+
+</svg>
+            </div>
+        </div>
+        <div id="search_menu_results">
+        </div>
+    </div>
+</div>
+</div>
+        
+
+        
+            <div id="translation_tool" class="dropdown-wrapper pure-menu pure-menu-horizontal toolbox-btn" onclick="void(0)">
+                <ul class="pure-menu-list">
+                    <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                        <div class="dropdown-btn pure-menu-link">
+                            <svg width="18px" height="18px" viewBox="0 0 24 24">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24" height="24" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+</svg>
+
+</svg>
+                            <span class="dropdown-desc">English</span>
+                        </div>
+                        <ul class="pure-menu-children">
+                            
+                            <li class="pure-menu-item">
+                                <a href="http://localhost:1313/" class="pure-menu-link">English</a>
+                            </li>
+                            
+                            <li class="pure-menu-item">
+                                <a href="http://localhost:1313/zh-tw/" class="pure-menu-link">українська</a>
+                            </li>
+                            
+                            <li class="pure-menu-item">
+                                <a href="http://localhost:1313/ua/" class="pure-menu-link"></a>
+                            </li>
+                            
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        
+    </div>
+</header>
+<nav id="navbar" class="pure-menu">
+    <ul class="pure-menu-list"><li class="navbar-item pure-menu-item ">
+                    
+                        <a href="/setup/" class="pure-menu-link">Setup</a>
+                    
+                </li><li class="navbar-item pure-menu-item ">
+                    
+                        <a href="/changelog/" class="pure-menu-link">Changelog</a>
+                    
+                </li><li class="navbar-item navbar-dropdown pure-menu-item pure-menu-has-children pure-menu-allow-hover ">
+                    
+                        <a href="/configuration/" class="pure-menu-link">Configuration</a>
+                    
+                    <ul class="pure-menu-children">
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/configuration/site" class="pure-menu-link">Site Settings</a>
+            
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/configuration/theme" class="pure-menu-link">Theme Settings</a>
+            
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/configuration/page" class="pure-menu-link">Page Settings</a>
+            
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item navbar-dropdown pure-menu-item pure-menu-has-children pure-menu-allow-hover ">
+                    
+                        <a href="/layouts/" class="pure-menu-link">Layouts</a>
+                    
+                    <ul class="pure-menu-children">
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/layouts/balloon" class="pure-menu-link">Balloon</a>
+            
+            <ul class="pure-menu-children">
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/layouts/balloon/demo" class="pure-menu-link">Demo</a>
+            
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/layouts/balloon/docs" class="pure-menu-link">Document</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/layouts/blank" class="pure-menu-link">Blank</a>
+            
+            <ul class="pure-menu-children">
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/layouts/blank/demo" class="pure-menu-link">Demo</a>
+            
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/layouts/blank/docs" class="pure-menu-link">Document</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/layouts/bookcase" class="pure-menu-link">Bookcase</a>
+            
+            <ul class="pure-menu-children">
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/layouts/bookcase/demo" class="pure-menu-link">Demo</a>
+            
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/layouts/bookcase/docs" class="pure-menu-link">Document</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/layouts/gallery" class="pure-menu-link">Gallery</a>
+            
+            <ul class="pure-menu-children">
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/layouts/gallery/demo" class="pure-menu-link">Demo</a>
+            
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/layouts/gallery/docs" class="pure-menu-link">Document</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/layouts/list" class="pure-menu-link">List</a>
+            
+            <ul class="pure-menu-children">
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/layouts/list/demo" class="pure-menu-link">Demo</a>
+            
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/layouts/list/docs" class="pure-menu-link">Document</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            
+                <a href="/layouts/postcard" class="pure-menu-link">Postcard</a>
+            
+            <ul class="pure-menu-children">
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/layouts/postcard/demo" class="pure-menu-link">Demo</a>
+            
+        </li>
+    
+
+
+    
+        <li class="pure-menu-item">
+            
+                <a href="/layouts/postcard/docs" class="pure-menu-link">Document</a>
+            
+        </li>
+    
+
+</ul>
+        </li>
+    
+
+</ul>
+                </li><li class="navbar-item pure-menu-item insection">
+                    
+                        <a href="/shortcodes/" class="pure-menu-link">Shortcodes</a>
+                    
+                </li><li class="navbar-item pure-menu-item ">
+                    
+                        <a href="/posts/" class="pure-menu-link">Posts</a>
+                    
+                </li></ul>
+</nav>
+<main>
+            <div id="content" class="content-margin">
+                
+    
+    <div class="collapsible-menu-wrapper"><div class="collapsible-menu-type"><span>Table of contents</span></div><div class="collapsible-menu">
+        
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#examples">Examples</a></li>
+  </ul>
+</nav>
+        
+    </div></div>
+
+
+
+    <div class="content-margin">
+
+
+
+<article >
+    
+    
+        
+        
+    
+    
+<h1 id="terms-cloud" class="header-anchor-wrapper">Terms Cloud
+  <a href="#terms-cloud" class="header-anchor-link">
+    <svg width="16px" height="16px" viewBox="0 0 24 24">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24" height="24" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line>
+</svg>
+
+</svg>
+  </a>
+</h1>
+
+<p>Render terms cloud, hugo supports <code>tag</code> and <code>category</code> terms by default, if you want to add your custom terms. Follow the instructions in the <a href="https://gohugo.io/content-management/taxonomies/#configure-taxonomies">document</a>.</p>
+
+<h2 id="usage" class="header-anchor-wrapper">Usage
+  <a href="#usage" class="header-anchor-link">
+    <svg width="16px" height="16px" viewBox="0 0 24 24">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24" height="24" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line>
+</svg>
+
+</svg>
+  </a>
+</h2>
+
+<pre  class="mc-prism hide language-text" ><code>{{&lt; terms-cloud terms=&quot;&quot; sortby=&quot;&quot; order=&quot;&quot; /&gt;}}
+</code></pre>
+<p>Paramters:</p>
+<ul>
+<li><code>terms</code>: terms name</li>
+<li><code>sortby</code>: <code>count</code> or <code>alphabetical</code> (default: <code>count</code>)</li>
+<li><code>order</code>: <code>asc</code> or <code>desc</code> (default: <code>asc</code>)</li>
+</ul>
+
+<h2 id="examples" class="header-anchor-wrapper">Examples
+  <a href="#examples" class="header-anchor-link">
+    <svg width="16px" height="16px" viewBox="0 0 24 24">
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24" height="24" viewBox="0 0 24 24" fill="none"
+    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round">
+    <line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line>
+</svg>
+
+</svg>
+  </a>
+</h2>
+
+<pre  class="mc-prism hide language-text" ><code class="language-html">{{&lt; terms-cloud terms=&quot;series&quot; &gt;}}
+</code></pre>
+<div class="content-margin">
+    
+    
+    
+
+    
+    
+        
+    
+    
+
+    
+    
+
+    <div>
+        
+            
+            
+            
+
+            <a class="term-item" href="/series/themes-guide/" style="line-height:1.725rem">
+                <span style="font-size:0.875rem">Themes Guide</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+    </div>
+
+</div>
+
+<pre  class="mc-prism hide language-text" ><code class="language-html">{{&lt; terms-cloud terms=&quot;tags&quot; order=&quot;desc&quot; &gt;}}
+</code></pre>
+<div class="content-margin">
+    
+    
+    
+
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+    
+    
+
+    <div>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/markdown/" style="line-height:2.360789793691786rem">
+                <span style="font-size:1.510789793691786rem">Markdown</span>
+                <span style="font-size:0.675rem"> (6) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/css/" style="line-height:1.9596510958345799rem">
+                <span style="font-size:1.1096510958345798rem">Css</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/emoji/" style="line-height:1.9596510958345799rem">
+                <span style="font-size:1.1096510958345798rem">Emoji</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/html/" style="line-height:1.9596510958345799rem">
+                <span style="font-size:1.1096510958345798rem">Html</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/privacy/" style="line-height:1.9596510958345799rem">
+                <span style="font-size:1.1096510958345798rem">Privacy</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/shortcodes/" style="line-height:1.9596510958345799rem">
+                <span style="font-size:1.1096510958345798rem">Shortcodes</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/text/" style="line-height:1.9596510958345799rem">
+                <span style="font-size:1.1096510958345798rem">Text</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/index/" style="line-height:1.725rem">
+                <span style="font-size:0.875rem">Index</span>
+                <span style="font-size:0.675rem"> (2) </span>
+            </a>
+        
+    </div>
+
+</div>
+
+<pre  class="mc-prism hide language-text" ><code class="language-html">{{&lt; terms-cloud terms=&quot;tags&quot; sortby=&quot;alphabetical&quot; &gt;}}
+</code></pre>
+<div class="content-margin">
+    
+    
+    
+
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+    
+    
+
+    <div>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/css/" style="line-height:1.9596510958345799rem">
+                <span style="font-size:1.1096510958345798rem">Css</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/emoji/" style="line-height:1.9596510958345799rem">
+                <span style="font-size:1.1096510958345798rem">Emoji</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/html/" style="line-height:1.9596510958345799rem">
+                <span style="font-size:1.1096510958345798rem">Html</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/index/" style="line-height:1.725rem">
+                <span style="font-size:0.875rem">Index</span>
+                <span style="font-size:0.675rem"> (2) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/markdown/" style="line-height:2.360789793691786rem">
+                <span style="font-size:1.510789793691786rem">Markdown</span>
+                <span style="font-size:0.675rem"> (6) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/privacy/" style="line-height:1.9596510958345799rem">
+                <span style="font-size:1.1096510958345798rem">Privacy</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/shortcodes/" style="line-height:1.9596510958345799rem">
+                <span style="font-size:1.1096510958345798rem">Shortcodes</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+            
+            
+            
+
+            <a class="term-item" href="/tags/text/" style="line-height:1.9596510958345799rem">
+                <span style="font-size:1.1096510958345798rem">Text</span>
+                <span style="font-size:0.675rem"> (3) </span>
+            </a>
+        
+    </div>
+
+</div>
+
+
+</article>
+</div>
+
+
+                
+                    
+                
+            </div>
+        </main>
+<footer>
+    <article>Copyright © 2021-2024 by kaiiiz</article>
+</footer>
+
+</body>
+</html>
