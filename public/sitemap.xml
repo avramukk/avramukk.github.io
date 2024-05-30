@@ -2,21 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/mykolaavramuk/en/sitemap.xml</loc>
     
-      <lastmod>2022-03-29T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/ua/sitemap.xml</loc>
+      <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/zh-tw/sitemap.xml</loc>
+    <loc>http://localhost:1313/mykolaavramuk/ua/sitemap.xml</loc>
     
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/mykolaavramuk/zh-tw/sitemap.xml</loc>
+    
+      <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     
   </sitemap>
   

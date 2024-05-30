@@ -2,600 +2,656 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/layouts/bookcase/demo/balloon/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/bookcase/demo/balloon/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/balloon/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/bookcase/demo/balloon/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/configuration/site/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/configuration/site/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/configuration/site/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/en/configuration/site/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/configuration/theme/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/configuration/theme/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/configuration/theme/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/en/configuration/theme/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/configuration/page/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/configuration/page/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/configuration/page/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/en/configuration/page/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/layouts/balloon/demo/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/balloon/demo/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/balloon/demo/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/balloon/demo/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/layouts/bookcase/demo/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/bookcase/demo/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/bookcase/demo/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/layouts/bookcase/docs/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/bookcase/docs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/docs/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/bookcase/docs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/layouts/gallery/demo/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/gallery/demo/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/gallery/demo/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/gallery/demo/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/layouts/gallery/docs/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/gallery/docs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/gallery/docs/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/gallery/docs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/layouts/blank/demo/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/blank/demo/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/blank/demo/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/blank/demo/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/layouts/list/demo/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/blank/docs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/list/demo/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/blank/docs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/layouts/postcard/demo/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/list/demo/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/list/demo/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/layouts/blank/docs/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/list/docs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/blank/docs/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/list/docs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/layouts/list/docs/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/postcard/demo/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/list/docs/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/postcard/demo/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/layouts/postcard/docs/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/postcard/docs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/postcard/docs/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/postcard/docs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/balloon/docs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/balloon/docs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/blank/demo/post1/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/blank/demo/post1/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/bookcase/demo/list/post1/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/bookcase/demo/list/post1/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/list/demo/post1/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/list/demo/post1/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/postcard/demo/post1/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/postcard/demo/post1/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/blank/demo/post2/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/blank/demo/post2/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/bookcase/demo/list/post2/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/bookcase/demo/list/post2/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/list/demo/post2/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/list/demo/post2/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/postcard/demo/post2/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/postcard/demo/post2/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/blank/demo/post3/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/blank/demo/post3/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/bookcase/demo/list/post3/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/bookcase/demo/list/post3/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/list/demo/post3/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/list/demo/post3/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/postcard/demo/post3/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/postcard/demo/post3/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/postcard/demo/post4/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/postcard/demo/post4/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/postcard/demo/post5/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/postcard/demo/post5/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/postcard/demo/post6/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/postcard/demo/post6/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/categories/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost:1313/ua/"
+                href="http://localhost:1313/mykolaavramuk/ua/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/mykolaavramuk/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/layouts/balloon/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/balloon/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/balloon/docs/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/balloon/docs/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/blank/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/blank/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/bookcase/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/bookcase/demo/list/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/list/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/list/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/list/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/blank/demo/post1/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/blank/demo/post1/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/bookcase/demo/list/post1/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/list/post1/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/list/demo/post1/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/list/demo/post1/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/postcard/demo/post1/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/post1/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/blank/demo/post2/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/blank/demo/post2/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/bookcase/demo/list/post2/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/list/post2/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/list/demo/post2/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/list/demo/post2/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/postcard/demo/post2/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/post2/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/blank/demo/post3/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/blank/demo/post3/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/bookcase/demo/list/post3/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/list/post3/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/list/demo/post3/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/list/demo/post3/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/postcard/demo/post3/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/post3/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/postcard/demo/post4/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/post4/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/postcard/demo/post5/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/post5/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/postcard/demo/post6/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/post6/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/postcard/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ua/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/tags/css/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/categories/"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/tags/css/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/tags/html/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/tags/html/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/tags/markdown/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/tags/markdown/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/posts/markdown-syntax/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/posts/markdown-syntax/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/posts/markdown-syntax/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/ua/posts/markdown-syntax/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/series/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost:1313/ua/categories/"
+                href="http://localhost:1313/mykolaavramuk/ua/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="http://localhost:1313/mykolaavramuk/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/categories/syntax/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/tags/css/"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/css/"
+                href="http://localhost:1313/mykolaavramuk/categories/syntax/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/tags/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/html/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/index/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/markdown/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/markdown-syntax/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ua/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/series/"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost:1313/ua/series/"
+                href="http://localhost:1313/mykolaavramuk/ua/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="http://localhost:1313/mykolaavramuk/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/categories/themes/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/categories/syntax/"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/syntax/"
+                href="http://localhost:1313/mykolaavramuk/categories/themes/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/series/themes-guide/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/tags/"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/series/themes-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/series/themes-guide/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/tags/privacy/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/tags/privacy/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/posts/rich-content/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/posts/rich-content/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/posts/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/posts/rich-content/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/ua/posts/rich-content/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/tags/shortcodes/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/tags/shortcodes/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/posts/placeholder-text/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/posts/placeholder-text/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/posts/placeholder-text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/posts/placeholder-text/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/ua/posts/placeholder-text/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/tags/text/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/tags/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/tags/text/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/posts/math-typesetting/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/posts/math-typesetting/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/posts/math-typesetting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/posts/math-typesetting/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/ua/posts/math-typesetting/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/tags/emoji/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/tags/emoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/tags/emoji/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/posts/emoji-support/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/posts/emoji-support/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/posts/emoji-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mykolaavramuk/posts/emoji-support/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/ua/posts/emoji-support/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost:1313/ua/tags/"
+                href="http://localhost:1313/mykolaavramuk/ua/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/mykolaavramuk/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/ua/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/balloon/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/balloon/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/balloon/demo/single/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/balloon/demo/single/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/blank/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/blank/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/shortcodes/bookcase/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/shortcodes/bookcase/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/bookcase/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/bookcase/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/shortcodes/breadcrumbs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/shortcodes/breadcrumbs/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/changelog/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/changelog/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/shortcodes/codepen/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/shortcodes/codepen/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/shortcodes/color-block/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/shortcodes/color-block/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/configuration/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/configuration/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/shortcodes/emgithub/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/shortcodes/emgithub/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/gallery/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/gallery/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/shortcodes/icon/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/shortcodes/icon/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/shortcodes/icon-group/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/shortcodes/icon-group/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/tags/index/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/shortcodes/jsfiddle/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/shortcodes/jsfiddle/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/bookcase/demo/list/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/bookcase/demo/list/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/list/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/list/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/postcard/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/layouts/postcard/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/en/posts/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mykolaavramuk/posts/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/categories/themes/"
+                href="http://localhost:1313/mykolaavramuk/zh-tw/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/themes/"
+                href="http://localhost:1313/mykolaavramuk/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/series/themes-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/series/themes-guide/"
-                />
+    <loc>http://localhost:1313/mykolaavramuk/en/shortcodes/recent-posts/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/privacy/"
-                />
+    <loc>http://localhost:1313/mykolaavramuk/shortcodes/recent-posts/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/en/layouts/bookcase/demo/regular-page/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/rich-content/"
-                />
+    <loc>http://localhost:1313/mykolaavramuk/layouts/bookcase/demo/regular-page/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ua/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/en/setup/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/shortcodes/"
-                />
+    <loc>http://localhost:1313/mykolaavramuk/setup/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/en/shortcodes/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/posts/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/placeholder-text/"
-                />
+    <loc>http://localhost:1313/mykolaavramuk/shortcodes/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ua/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mykolaavramuk/en/shortcodes/terms-cloud/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/text/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/math-typesetting/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ua/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/emoji/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/zh-tw/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/emoji-support/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ua/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/balloon/demo/single/</loc>
-  </url><url>
-    <loc>http://localhost:1313/layouts/balloon/demo/single/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/shortcodes/bookcase/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/bookcase/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/shortcodes/breadcrumbs/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/breadcrumbs/</loc>
-  </url><url>
-    <loc>http://localhost:1313/changelog/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/changelog/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/shortcodes/codepen/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/codepen/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/shortcodes/color-block/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/color-block/</loc>
-  </url><url>
-    <loc>http://localhost:1313/configuration/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/configuration/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/shortcodes/emgithub/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/emgithub/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/gallery/</loc>
-  </url><url>
-    <loc>http://localhost:1313/layouts/gallery/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/shortcodes/icon/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/icon/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/shortcodes/icon-group/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/icon-group/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/shortcodes/jsfiddle/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/jsfiddle/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/shortcodes/recent-posts/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/recent-posts/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/layouts/bookcase/demo/regular-page/</loc>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/regular-page/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/setup/</loc>
-  </url><url>
-    <loc>http://localhost:1313/setup/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/shortcodes/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/shortcodes/terms-cloud/</loc>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/terms-cloud/</loc>
+    <loc>http://localhost:1313/mykolaavramuk/shortcodes/terms-cloud/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url>
 </urlset>
