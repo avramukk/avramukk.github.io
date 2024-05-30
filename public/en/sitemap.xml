@@ -2,101 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/balloon/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/configuration/site/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/configuration/theme/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/configuration/page/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/balloon/demo/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/docs/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/gallery/demo/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/gallery/docs/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/blank/demo/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/blank/docs/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/list/demo/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/list/docs/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/docs/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/cv/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/layouts/balloon/docs/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/blank/demo/post1/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/list/post1/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/list/demo/post1/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/post1/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/blank/demo/post2/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/list/post2/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/list/demo/post2/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/post2/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/blank/demo/post3/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/list/post3/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/list/demo/post3/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/post3/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/post4/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/post5/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/demo/post6/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <loc>http://localhost:1313/moments/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-05-30T12:29:31+01:00</lastmod>
@@ -345,68 +253,21 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/moments/moments/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/layouts/balloon/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <loc>http://localhost:1313/moments/1/</loc>
   </url><url>
-    <loc>http://localhost:1313/layouts/balloon/demo/single/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <loc>http://localhost:1313/moments/2/</loc>
   </url><url>
-    <loc>http://localhost:1313/layouts/blank/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <loc>http://localhost:1313/moments/3/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/bookcase/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <loc>http://localhost:1313/moments/4/</loc>
   </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <loc>http://localhost:1313/moments/5/</loc>
   </url><url>
-    <loc>http://localhost:1313/shortcodes/breadcrumbs/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/changelog/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/codepen/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/color-block/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/configuration/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/emgithub/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/gallery/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/icon/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/icon-group/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <loc>http://localhost:1313/moments/6/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/index/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/jsfiddle/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/list/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/list/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/moments/</loc>
-  </url><url>
-    <loc>http://localhost:1313/layouts/postcard/</loc>
     <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
@@ -421,20 +282,5 @@
                 hreflang="en"
                 href="http://localhost:1313/posts/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/recent-posts/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/layouts/bookcase/demo/regular-page/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/setup/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/shortcodes/terms-cloud/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
   </url>
 </urlset>

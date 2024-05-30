@@ -1,21 +1,21 @@
 [[navbar]]
-  identifier = "setup"
-  name = "Setup"
-  url = "/setup/"
-  weight = 1
-
-[[navbar]]
   identifier = "posts"
   name = "Posts"
   url = "/posts/"
-  weight = 6
+  weight = 1
 [[navbar]]
   identifier = "about"
   name = "About"
   url = "/about/"
-  weight = 7
+  weight = 2
 [[navbar]]
   identifier = "cv"
   name = "CV"
   url = "/cv/"
-  weight = 8
+  weight = 3
+[[navbar]]
+  identifier = "moments"
+  name = "Moments"
+  url = "/moments/"
+  weight = 4
+

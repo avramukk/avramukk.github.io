@@ -4,7 +4,7 @@ title = "avramukk"
 theme = "hugo-theme-monochrome"
 defaultContentLanguage = "en"
 enableEmoji = true
-paginate = 5
+paginate = 50
 enableGitInfo = true
 
 [taxonomies]
