@@ -54,19 +54,6 @@
                 href="http://localhost:1313/ua/tags/markdown/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ua/posts/markdown-syntax/</loc>
-    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/ua/posts/markdown-syntax/"
-                />
-  </url><url>
     <loc>http://localhost:1313/ua/posts/</loc>
     <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
@@ -143,6 +130,19 @@
                 rel="alternate"
                 hreflang="uk-UA"
                 href="http://localhost:1313/ua/series/themes-guide/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ua/posts/markdown-syntax/</loc>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/posts/markdown-syntax/"
                 />
   </url><url>
     <loc>http://localhost:1313/ua/tags/privacy/</loc>

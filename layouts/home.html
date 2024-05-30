@@ -1,9 +1,9 @@
 {{ define "content" }}
 
 {{ if .Content }}
-    <div class="content-margin">
-        {{- partial "content.html" (dict "ctx" . "content" .Content) -}}
-    </div>
+<div class="content-margin">
+    {{- partial "content.html" (dict "ctx" . "content" .Content) -}}
+</div>
 {{ end }}
 
 {{ partial "postcard/layout.html" (dict "pages" .Site.RegularPages "ctx" .) }}

@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/cv/</loc>
+    <lastmod>2024-05-30T18:45:08+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/moments/</loc>
     <lastmod>2024-05-30T18:41:01+01:00</lastmod>
@@ -99,7 +100,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-05-30T17:30:50+01:00</lastmod>
+    <lastmod>2024-05-30T12:29:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -242,7 +243,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-30T18:41:01+01:00</lastmod>
+    <lastmod>2024-05-30T18:45:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
@@ -255,9 +256,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/index/</loc>
-    <lastmod>2024-05-30T17:30:50+01:00</lastmod>
+    <lastmod>2024-05-30T18:45:08+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-05-30T17:30:50+01:00</lastmod>

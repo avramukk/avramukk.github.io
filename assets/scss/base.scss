@@ -108,3 +108,9 @@ details[open] > summary {
     width: $xxl_body_width;
   }
 }
+
+// not show scrollbar globally
+body {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
