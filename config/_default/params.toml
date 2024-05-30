@@ -1,10 +1,10 @@
 navbar_title = 'avramukk'
-footer = "Copyright © 2021-2024 by avramukk"
+footer = "Copyright © 2024 by Mykola Avramuk"
 author = "avramukk"
 color_scheme = "dark"
 
 enable_zooming_js = true
-enable_header_anchor = true
+enable_header_anchor = false
 enable_toc = false 
 enable_site_search = false
 enable_math = false
@@ -15,7 +15,7 @@ enable_twitter_cards = true
 
 # Collapsible Menu
 enable_collapsible_toc = false
-enable_collapsible_changelogs = true
+enable_collapsible_changelogs = false
 
 [list_layout]
 enable_group_by_year = false
