@@ -30,7 +30,7 @@ jobs:
         run: rm -rf ./public/*
 
       - name: Build
-        run: hugo --minify --baseURL https://avramukk.com --environment production
+        run: hugo --minify --baseURL https://avramukk.github.io --environment production
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
