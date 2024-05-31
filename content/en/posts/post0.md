@@ -7,6 +7,7 @@ tags = [
     "qa",
 ]
 +++
+
 Hey there! I'm Mykola Avramuk, a QA and Streaming Engineer at [Mixa.live](https://mixa.live/).
 
 My mission is to deliver a quality product to users in a timely manner within available resources.
