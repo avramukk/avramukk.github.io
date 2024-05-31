@@ -11,6 +11,51 @@
     <loc>http://localhost:1313/moments/</loc>
     <lastmod>2024-05-30T18:41:01+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/post0/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/qa/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/tags/qa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/qa/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/streaming/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/tags/streaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/streaming/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="http://localhost:1313/ua/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-05-31T13:04:20+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -22,9 +67,6 @@
                 hreflang="en"
                 href="http://localhost:1313/categories/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-05-31T13:04:20+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
     <xhtml:link
@@ -38,20 +80,8 @@
                 href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk-UA"
-                href="http://localhost:1313/ua/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-31T13:04:20+01:00</lastmod>
+    <lastmod>2024-05-31T13:19:26+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"

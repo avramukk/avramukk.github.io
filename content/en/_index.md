@@ -4,7 +4,7 @@ description: "Це моя головна сторінка з текстом"
 ---
 
   # Mykola Avramuk
-  <p>Engineer from Kyiv, Ukraine 🇺🇦 <br>
+  <p>I`m Engineer from Ukraine<br>
     My area of interest: <br>
     • Video Streaming <br>
     • Quality Assurance<br>
