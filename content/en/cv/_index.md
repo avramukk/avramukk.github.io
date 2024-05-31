@@ -5,7 +5,7 @@ weight: 1
 
 [PDF](/mykola_avramuk_cv.pdf) [DOC](/mykola_avramuk_cv.docx)
 
-### Personal information
+### [Personal information](#personal-information)
 - Date of birth: 16.12.1995
 - Home: Kyiv
 - Location: Spain
@@ -17,7 +17,7 @@ weight: 1
 - **AWS:** EC2, ECS, S3, Lambda, Route53, Api Gateway - Advanced
 - **IaC:** Terraform, Cloudformation - Intermediate
 - **CI/CD:** CodeBuild, CodePipeline - Intermediate
-- **OS:** Linux - Advanced
+- **Linux** - Advanced
 - **Docker** - Advanced
 - **Kubernetes, ArgoCD, Helm, Ansible** - Novice
 - **Scripting:** Bash, Python, Go - Novice
@@ -52,7 +52,7 @@ weight: 1
 **[VVCR](https://vvcr.tv)**, Contract  
 *Jul 2020 - Present*  
 **Responsibility:** Full QA process from scratch of cloud-based virtual video control room system (VVCR)
-- Managing SDLC in a team of 4 people  
+Managing SDLC in a team of 4 people  
 **Technology:** Test Planning, System Testing, Regression Testing, Live Video Streaming, SRT, RTMP, API Testing, Manual Testing, Test Automation
 
 #### QA Engineer
