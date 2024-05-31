@@ -4,7 +4,7 @@ title = "How to test videostream?"
 date = "2023-09-01"
 tags = [
     "streaming",
-    "qa",
+    "qa"
 ]
 +++
 
