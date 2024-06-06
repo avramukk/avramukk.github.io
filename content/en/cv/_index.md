@@ -42,7 +42,7 @@ weight: 1
 **Responsibility:** CI/CD for NEST.JS application with GitlabCI  
 **Technology:** Nest, Typescript, Bash, Gitlab CI
 
-#### QA Engineer
+#### QA Engineer & DevOps Engineer
 **[Mixa.live](https://mixa.live)**, Contract  
 *Mar 2022 - Present*  
 **Responsibility:** Full QA process of SDLC for cloud video switcher  
@@ -71,19 +71,20 @@ Managing SDLC in a team of 4 people
 **[TV channel]**, Shift-time  
 *Mar 2020 - Jun 2021*  
 **Responsibility:** Servers Administering for Video Content Delivery pipeline for post-production  
-**Technology:** Windows Server, Linux, Avid Technology Products
+**Technology:** Windows Server, Linux, Avid Technology Products  
 
-#### IT Support Engineer (Anykey)
+#### IT Support Engineer
 **[TV channel]()**, Shift-time  
 *Feb 2018 - May 2020*  
-**Responsibility:** Technical Support  
-**Technology:** Technical Support, Avid Technology Products
+**Responsibility:** Technical Support, Setup and Maintenance of new servers and workstations  
+**Technology:** Technical Support, Avid Technology Products, Windows, Linux, macOS, Active Directory  
+**Achievements**: Initiated and implemented monitoring of client machines via Zabbix, Implemented remote technical support for client machines via VNC
 
 #### Broadcast Engineer
 **[TV channel]()**, Shift-time  
 *Sep 2016 - Feb 2018*  
 **Responsibility:** Broadcast quality control, planning of the broadcast grid, quick response to any problems in the final broadcast signal  
-**Technology:** Oasys, Broadcasting, Television
+**Technology:** Oasys System, Avid Products, SDI and IP video transport
 
 ### [Education](#education)
 #### National Technical University of Ukraine "Kyiv Polytechnic Institute"
