@@ -3,10 +3,9 @@ title: 'cv'
 weight: 1
 ---
 
-[PDF](/mykola_avramuk_cv.pdf) [DOC](/mykola_avramuk_cv.docx)
+### [PDF](/mykola_avramuk_cv.pdf) [DOC](/mykola_avramuk_cv.docx)
 
 ### [Personal information](#personal-information)
-- Date of birth: 16.12.1995
 - Home: Kyiv
 - Location: Spain
 - Email: [avramuk89@gmail.com](mailto:avramuk89@gmail.com)
@@ -17,10 +16,10 @@ weight: 1
 - **AWS:** EC2, ECS, S3, Lambda, Route53, Api Gateway - Advanced
 - **IaC:** Terraform, Cloudformation - Intermediate
 - **CI/CD:** CodeBuild, CodePipeline - Intermediate
-- **Linux** - Advanced
-- **Docker** - Advanced
+- **Linux, Bash** - Advanced
+- **Docker & Compose** - Intermediate
 - **Kubernetes, ArgoCD, Helm, Ansible** - Novice
-- **Scripting:** Bash, Python, Go - Novice
+- **Scripting:** Python, Go - Novice
 - **Windows, macOS, Android, iOS** - Intermediate
 - **Playwright, Cypress** - Novice
 - **Postman** - Advanced

@@ -3,11 +3,9 @@ title: 'about'
 type: "blank"
 weight: 1
 ---
-With 7+ years in IT, I've honed my skills in cloud, video broadcasting, QA processes, project management and live video streaming.
-I've managed SDLC, improved CI/CD, and ensured smooth broadcast operations. 
-I'm adept at handling multiple responsibilities in fast-paced environments.
+I am a DevOps Engineer with over 5 years in system administration and 4 years in development and cloud computing. Proficient in managing Linux environments, implementing CI/CD pipelines, IaC, automating tasks using Bash and Python. Skilled in containerization with Docker. Currently deep dive in GitOps and Kubernetes. Strong expertise in AWS and the streaming domain.
 
   <p>
-    I like to learn new things and dive deep into it. And I push all learning stuff into my 
+    I am a curious person, learn new things and dive deep into it. I push all learning stuff into my 
       <a target="_blank" rel="noopener noreferrer" href="https://github.com/avramukk/lab.git">lab</a> repository.
   </p>
