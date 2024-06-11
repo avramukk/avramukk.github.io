@@ -1,6 +1,7 @@
 ---
 title: 'cv'
 weight: 1
+draft: true
 ---
 
 ### [PDF](/mykola_avramuk_cv.pdf) [DOC](/mykola_avramuk_cv.docx)
@@ -13,18 +14,15 @@ weight: 1
 - Github: [https://www.github.com/avramukk](https://www.github.com/avramukk)
 
 ### [Expertise](#expertise)
-- **AWS:** EC2, ECS, S3, Lambda, Route53, Api Gateway - Advanced
-- **IaC:** Terraform, Cloudformation - Intermediate
-- **CI/CD:** CodeBuild, CodePipeline - Intermediate
-- **Linux, Bash** - Advanced
-- **Docker & Compose** - Intermediate
-- **Kubernetes, ArgoCD, Helm, Ansible** - Novice
-- **Scripting:** Python, Go - Novice
-- **Windows, macOS, Android, iOS** - Intermediate
-- **Playwright, Cypress** - Novice
-- **Postman** - Advanced
+- **AWS:** EC2, ECS, S3, Lambda, Route53, Api Gateway 
+- **IaC:** Terraform, Cloudformation 
+- **CI/CD:** CodeBuild, CodePipeline 
+- **Linux: Ubuntu Server, Amazon Linux 2** 
+- **Conteinerization: Docker, Kubernetes** 
+- **Configuration: Ansible** 
+- **Scripting:** Bash, Go, Python 
+- **Playwright, Cypress, Postman** 
 - **vMix, OBS, LiveU, AWS Elemental Live**
-- **Github Projects, TestRail, Trello**
 - **SDI and IP video transport, Oasys System**
 - **MPEG Video, SRT, Zixi, RTMP, HLS, WebRTC, NDI, FFMPEG**
 

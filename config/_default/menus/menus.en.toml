@@ -8,11 +8,11 @@
   name = "About"
   url = "/about/"
   weight = 2
-[[navbar]]
-  identifier = "cv"
-  name = "CV"
-  url = "/cv/"
-  weight = 3
+# [[navbar]]
+#   identifier = "cv"
+#   name = "CV"
+#   url = "/cv/"
+#   weight = 3
 [[navbar]]
   identifier = "moments"
   name = "Moments"
