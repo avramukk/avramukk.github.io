@@ -17,10 +17,6 @@ description: "Це моя головна сторінка з текстом"
 
 {{< icon vendor="simple" name="linkedin" link="https://www.linkedin.com/in/avramukk" >}}
 
-<div class="image-container">
-  <img src="avatar.png" alt="My Image" class="right-image">
-</div>
-
 <style>
 .image-container {
   display: flex;
