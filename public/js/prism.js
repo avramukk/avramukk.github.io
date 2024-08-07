@@ -19,10 +19,8 @@
           var r2, i2;
           switch (t2 = t2 || {}, a.util.type(n2)) {
             case "Object":
-              if (i2 = a.util.objId(n2), t2[i2])
-                return t2[i2];
-              for (var l2 in r2 = {}, t2[i2] = r2, n2)
-                n2.hasOwnProperty(l2) && (r2[l2] = e2(n2[l2], t2));
+              if (i2 = a.util.objId(n2), t2[i2]) return t2[i2];
+              for (var l2 in r2 = {}, t2[i2] = r2, n2) n2.hasOwnProperty(l2) && (r2[l2] = e2(n2[l2], t2));
               return r2;
             case "Array":
               return i2 = a.util.objId(n2), t2[i2] ? t2[i2] : (r2 = [], t2[i2] = r2, n2.forEach(function(n3, a2) {
@@ -34,54 +32,43 @@
         }, getLanguage: function(e2) {
           for (; e2; ) {
             var t2 = n.exec(e2.className);
-            if (t2)
-              return t2[1].toLowerCase();
+            if (t2) return t2[1].toLowerCase();
             e2 = e2.parentElement;
           }
           return "none";
         }, setLanguage: function(e2, t2) {
           e2.className = e2.className.replace(RegExp(n, "gi"), ""), e2.classList.add("language-" + t2);
         }, currentScript: function() {
-          if ("undefined" == typeof document)
-            return null;
-          if ("currentScript" in document)
-            return document.currentScript;
+          if ("undefined" == typeof document) return null;
+          if ("currentScript" in document) return document.currentScript;
           try {
             throw new Error();
           } catch (r2) {
             var e2 = (/at [^(\r\n]*\((.*):[^:]+:[^:]+\)$/i.exec(r2.stack) || [])[1];
             if (e2) {
               var n2 = document.getElementsByTagName("script");
-              for (var t2 in n2)
-                if (n2[t2].src == e2)
-                  return n2[t2];
+              for (var t2 in n2) if (n2[t2].src == e2) return n2[t2];
             }
             return null;
           }
         }, isActive: function(e2, n2, t2) {
           for (var r2 = "no-" + n2; e2; ) {
             var a2 = e2.classList;
-            if (a2.contains(n2))
-              return true;
-            if (a2.contains(r2))
-              return false;
+            if (a2.contains(n2)) return true;
+            if (a2.contains(r2)) return false;
             e2 = e2.parentElement;
           }
           return !!t2;
         } }, languages: { plain: r, plaintext: r, text: r, txt: r, extend: function(e2, n2) {
           var t2 = a.util.clone(a.languages[e2]);
-          for (var r2 in n2)
-            t2[r2] = n2[r2];
+          for (var r2 in n2) t2[r2] = n2[r2];
           return t2;
         }, insertBefore: function(e2, n2, t2, r2) {
           var i2 = (r2 = r2 || a.languages)[e2], l2 = {};
-          for (var o2 in i2)
-            if (i2.hasOwnProperty(o2)) {
-              if (o2 == n2)
-                for (var s2 in t2)
-                  t2.hasOwnProperty(s2) && (l2[s2] = t2[s2]);
-              t2.hasOwnProperty(o2) || (l2[o2] = i2[o2]);
-            }
+          for (var o2 in i2) if (i2.hasOwnProperty(o2)) {
+            if (o2 == n2) for (var s2 in t2) t2.hasOwnProperty(s2) && (l2[s2] = t2[s2]);
+            t2.hasOwnProperty(o2) || (l2[o2] = i2[o2]);
+          }
           var u2 = r2[e2];
           return r2[e2] = l2, a.languages.DFS(a.languages, function(n3, t3) {
             t3 === u2 && n3 != e2 && (this[n3] = l2);
@@ -89,19 +76,17 @@
         }, DFS: function e2(n2, t2, r2, i2) {
           i2 = i2 || {};
           var l2 = a.util.objId;
-          for (var o2 in n2)
-            if (n2.hasOwnProperty(o2)) {
-              t2.call(n2, o2, n2[o2], r2 || o2);
-              var s2 = n2[o2], u2 = a.util.type(s2);
-              "Object" !== u2 || i2[l2(s2)] ? "Array" !== u2 || i2[l2(s2)] || (i2[l2(s2)] = true, e2(s2, t2, o2, i2)) : (i2[l2(s2)] = true, e2(s2, t2, null, i2));
-            }
+          for (var o2 in n2) if (n2.hasOwnProperty(o2)) {
+            t2.call(n2, o2, n2[o2], r2 || o2);
+            var s2 = n2[o2], u2 = a.util.type(s2);
+            "Object" !== u2 || i2[l2(s2)] ? "Array" !== u2 || i2[l2(s2)] || (i2[l2(s2)] = true, e2(s2, t2, o2, i2)) : (i2[l2(s2)] = true, e2(s2, t2, null, i2));
+          }
         } }, plugins: {}, highlightAll: function(e2, n2) {
           a.highlightAllUnder(document, e2, n2);
         }, highlightAllUnder: function(e2, n2, t2) {
           var r2 = { callback: t2, container: e2, selector: 'code[class*="language-"], [class*="language-"] code, code[class*="lang-"], [class*="lang-"] code' };
           a.hooks.run("before-highlightall", r2), r2.elements = Array.prototype.slice.apply(r2.container.querySelectorAll(r2.selector)), a.hooks.run("before-all-elements-highlight", r2);
-          for (var i2, l2 = 0; i2 = r2.elements[l2++]; )
-            a.highlightElement(i2, true === n2, r2.callback);
+          for (var i2, l2 = 0; i2 = r2.elements[l2++]; ) a.highlightElement(i2, true === n2, r2.callback);
         }, highlightElement: function(n2, t2, r2) {
           var i2 = a.util.getLanguage(n2), l2 = a.languages[i2];
           a.util.setLanguage(n2, i2);
@@ -111,34 +96,27 @@
           function u2(e2) {
             s2.highlightedCode = e2, a.hooks.run("before-insert", s2), s2.element.innerHTML = s2.highlightedCode, a.hooks.run("after-highlight", s2), a.hooks.run("complete", s2), r2 && r2.call(s2.element);
           }
-          if (a.hooks.run("before-sanity-check", s2), (o2 = s2.element.parentElement) && "pre" === o2.nodeName.toLowerCase() && !o2.hasAttribute("tabindex") && o2.setAttribute("tabindex", "0"), !s2.code)
-            return a.hooks.run("complete", s2), void (r2 && r2.call(s2.element));
-          if (a.hooks.run("before-highlight", s2), s2.grammar)
-            if (t2 && e.Worker) {
-              var c2 = new Worker(a.filename);
-              c2.onmessage = function(e2) {
-                u2(e2.data);
-              }, c2.postMessage(JSON.stringify({ language: s2.language, code: s2.code, immediateClose: true }));
-            } else
-              u2(a.highlight(s2.code, s2.grammar, s2.language));
-          else
-            u2(a.util.encode(s2.code));
+          if (a.hooks.run("before-sanity-check", s2), (o2 = s2.element.parentElement) && "pre" === o2.nodeName.toLowerCase() && !o2.hasAttribute("tabindex") && o2.setAttribute("tabindex", "0"), !s2.code) return a.hooks.run("complete", s2), void (r2 && r2.call(s2.element));
+          if (a.hooks.run("before-highlight", s2), s2.grammar) if (t2 && e.Worker) {
+            var c2 = new Worker(a.filename);
+            c2.onmessage = function(e2) {
+              u2(e2.data);
+            }, c2.postMessage(JSON.stringify({ language: s2.language, code: s2.code, immediateClose: true }));
+          } else u2(a.highlight(s2.code, s2.grammar, s2.language));
+          else u2(a.util.encode(s2.code));
         }, highlight: function(e2, n2, t2) {
           var r2 = { code: e2, grammar: n2, language: t2 };
-          if (a.hooks.run("before-tokenize", r2), !r2.grammar)
-            throw new Error('The language "' + r2.language + '" has no grammar.');
+          if (a.hooks.run("before-tokenize", r2), !r2.grammar) throw new Error('The language "' + r2.language + '" has no grammar.');
           return r2.tokens = a.tokenize(r2.code, r2.grammar), a.hooks.run("after-tokenize", r2), i.stringify(a.util.encode(r2.tokens), r2.language);
         }, tokenize: function(e2, n2) {
           var t2 = n2.rest;
           if (t2) {
-            for (var r2 in t2)
-              n2[r2] = t2[r2];
+            for (var r2 in t2) n2[r2] = t2[r2];
             delete n2.rest;
           }
           var a2 = new s();
           return u(a2, a2.head, e2), o(e2, a2, n2, a2.head, 0), function(e3) {
-            for (var n3 = [], t3 = e3.head.next; t3 !== e3.tail; )
-              n3.push(t3.value), t3 = t3.next;
+            for (var n3 = [], t3 = e3.head.next; t3 !== e3.tail; ) n3.push(t3.value), t3 = t3.next;
             return n3;
           }(a2);
         }, hooks: { all: {}, add: function(e2, n2) {
@@ -146,9 +124,7 @@
           t2[e2] = t2[e2] || [], t2[e2].push(n2);
         }, run: function(e2, n2) {
           var t2 = a.hooks.all[e2];
-          if (t2 && t2.length)
-            for (var r2, i2 = 0; r2 = t2[i2++]; )
-              r2(n2);
+          if (t2 && t2.length) for (var r2, i2 = 0; r2 = t2[i2++]; ) r2(n2);
         } }, Token: i };
         function i(e2, n2, t2, r2) {
           this.type = e2, this.content = n2, this.alias = t2, this.length = 0 | (r2 || "").length;
@@ -163,49 +139,41 @@
           return a2;
         }
         function o(e2, n2, t2, r2, s2, g2) {
-          for (var f2 in t2)
-            if (t2.hasOwnProperty(f2) && t2[f2]) {
-              var h2 = t2[f2];
-              h2 = Array.isArray(h2) ? h2 : [h2];
-              for (var d = 0; d < h2.length; ++d) {
-                if (g2 && g2.cause == f2 + "," + d)
-                  return;
-                var v = h2[d], p = v.inside, m = !!v.lookbehind, y = !!v.greedy, k = v.alias;
-                if (y && !v.pattern.global) {
-                  var x = v.pattern.toString().match(/[imsuy]*$/)[0];
-                  v.pattern = RegExp(v.pattern.source, x + "g");
-                }
-                for (var b = v.pattern || v, w = r2.next, A = s2; w !== n2.tail && !(g2 && A >= g2.reach); A += w.value.length, w = w.next) {
-                  var E = w.value;
-                  if (n2.length > e2.length)
-                    return;
-                  if (!(E instanceof i)) {
-                    var P, L = 1;
-                    if (y) {
-                      if (!(P = l(b, A, e2, m)) || P.index >= e2.length)
-                        break;
-                      var S = P.index, O = P.index + P[0].length, j = A;
-                      for (j += w.value.length; S >= j; )
-                        j += (w = w.next).value.length;
-                      if (A = j -= w.value.length, w.value instanceof i)
-                        continue;
-                      for (var C = w; C !== n2.tail && (j < O || "string" == typeof C.value); C = C.next)
-                        L++, j += C.value.length;
-                      L--, E = e2.slice(A, j), P.index -= A;
-                    } else if (!(P = l(b, 0, E, m)))
-                      continue;
-                    S = P.index;
-                    var N = P[0], _ = E.slice(0, S), M = E.slice(S + N.length), W = A + E.length;
-                    g2 && W > g2.reach && (g2.reach = W);
-                    var z = w.prev;
-                    if (_ && (z = u(n2, z, _), A += _.length), c(n2, z, L), w = u(n2, z, new i(f2, p ? a.tokenize(N, p) : N, k, N)), M && u(n2, w, M), L > 1) {
-                      var I = { cause: f2 + "," + d, reach: W };
-                      o(e2, n2, t2, w.prev, A, I), g2 && I.reach > g2.reach && (g2.reach = I.reach);
-                    }
+          for (var f2 in t2) if (t2.hasOwnProperty(f2) && t2[f2]) {
+            var h2 = t2[f2];
+            h2 = Array.isArray(h2) ? h2 : [h2];
+            for (var d = 0; d < h2.length; ++d) {
+              if (g2 && g2.cause == f2 + "," + d) return;
+              var v = h2[d], p = v.inside, m = !!v.lookbehind, y = !!v.greedy, k = v.alias;
+              if (y && !v.pattern.global) {
+                var x = v.pattern.toString().match(/[imsuy]*$/)[0];
+                v.pattern = RegExp(v.pattern.source, x + "g");
+              }
+              for (var b = v.pattern || v, w = r2.next, A = s2; w !== n2.tail && !(g2 && A >= g2.reach); A += w.value.length, w = w.next) {
+                var E = w.value;
+                if (n2.length > e2.length) return;
+                if (!(E instanceof i)) {
+                  var P, L = 1;
+                  if (y) {
+                    if (!(P = l(b, A, e2, m)) || P.index >= e2.length) break;
+                    var S = P.index, O = P.index + P[0].length, j = A;
+                    for (j += w.value.length; S >= j; ) j += (w = w.next).value.length;
+                    if (A = j -= w.value.length, w.value instanceof i) continue;
+                    for (var C = w; C !== n2.tail && (j < O || "string" == typeof C.value); C = C.next) L++, j += C.value.length;
+                    L--, E = e2.slice(A, j), P.index -= A;
+                  } else if (!(P = l(b, 0, E, m))) continue;
+                  S = P.index;
+                  var N = P[0], _ = E.slice(0, S), M = E.slice(S + N.length), W = A + E.length;
+                  g2 && W > g2.reach && (g2.reach = W);
+                  var z = w.prev;
+                  if (_ && (z = u(n2, z, _), A += _.length), c(n2, z, L), w = u(n2, z, new i(f2, p ? a.tokenize(N, p) : N, k, N)), M && u(n2, w, M), L > 1) {
+                    var I = { cause: f2 + "," + d, reach: W };
+                    o(e2, n2, t2, w.prev, A, I), g2 && I.reach > g2.reach && (g2.reach = I.reach);
                   }
                 }
               }
             }
+          }
         }
         function s() {
           var e2 = { value: null, prev: null, next: null }, n2 = { value: null, prev: e2, next: null };
@@ -216,13 +184,11 @@
           return n2.next = a2, r2.prev = a2, e2.length++, a2;
         }
         function c(e2, n2, t2) {
-          for (var r2 = n2.next, a2 = 0; a2 < t2 && r2 !== e2.tail; a2++)
-            r2 = r2.next;
+          for (var r2 = n2.next, a2 = 0; a2 < t2 && r2 !== e2.tail; a2++) r2 = r2.next;
           n2.next = r2, r2.prev = n2, e2.length -= a2;
         }
         if (e.Prism = a, i.stringify = function e2(n2, t2) {
-          if ("string" == typeof n2)
-            return n2;
+          if ("string" == typeof n2) return n2;
           if (Array.isArray(n2)) {
             var r2 = "";
             return n2.forEach(function(n3) {
@@ -232,14 +198,12 @@
           var i2 = { type: n2.type, content: e2(n2.content, t2), tag: "span", classes: ["token", n2.type], attributes: {}, language: t2 }, l2 = n2.alias;
           l2 && (Array.isArray(l2) ? Array.prototype.push.apply(i2.classes, l2) : i2.classes.push(l2)), a.hooks.run("wrap", i2);
           var o2 = "";
-          for (var s2 in i2.attributes)
-            o2 += " " + s2 + '="' + (i2.attributes[s2] || "").replace(/"/g, "&quot;") + '"';
+          for (var s2 in i2.attributes) o2 += " " + s2 + '="' + (i2.attributes[s2] || "").replace(/"/g, "&quot;") + '"';
           return "<" + i2.tag + ' class="' + i2.classes.join(" ") + '"' + o2 + ">" + i2.content + "</" + i2.tag + ">";
-        }, !e.document)
-          return e.addEventListener ? (a.disableWorkerMessageHandler || e.addEventListener("message", function(n2) {
-            var t2 = JSON.parse(n2.data), r2 = t2.language, i2 = t2.code, l2 = t2.immediateClose;
-            e.postMessage(a.highlight(i2, a.languages[r2], r2)), l2 && e.close();
-          }, false), a) : a;
+        }, !e.document) return e.addEventListener ? (a.disableWorkerMessageHandler || e.addEventListener("message", function(n2) {
+          var t2 = JSON.parse(n2.data), r2 = t2.language, i2 = t2.code, l2 = t2.immediateClose;
+          e.postMessage(a.highlight(i2, a.languages[r2], r2)), l2 && e.close();
+        }, false), a) : a;
         var g = a.util.currentScript();
         function f() {
           a.manual || a.highlightAll();
@@ -318,10 +282,9 @@
                       r2.style.height = u3;
                     });
                   }
-                } else
-                  v.push(function() {
-                    r2.setAttribute("data-start", String(i2)), n2 > i2 && r2.setAttribute("data-end", String(n2)), r2.style.top = (i2 - d - 1) * f + A + "px", r2.textContent = new Array(n2 - i2 + 2).join(" \n");
-                  });
+                } else v.push(function() {
+                  r2.setAttribute("data-start", String(i2)), n2 > i2 && r2.setAttribute("data-end", String(n2)), r2.style.top = (i2 - d - 1) * f + A + "px", r2.textContent = new Array(n2 - i2 + 2).join(" \n");
+                });
                 v.push(function() {
                   r2.style.width = o2.scrollWidth + "px";
                 }), v.push(function() {
@@ -400,8 +363,7 @@
           var e = { javascript: "clike", actionscript: "javascript", apex: ["clike", "sql"], arduino: "cpp", aspnet: ["markup", "csharp"], birb: "clike", bison: "c", c: "clike", csharp: "clike", cpp: "c", cfscript: "clike", chaiscript: ["clike", "cpp"], cilkc: "c", cilkcpp: "cpp", coffeescript: "javascript", crystal: "ruby", "css-extras": "css", d: "clike", dart: "clike", django: "markup-templating", ejs: ["javascript", "markup-templating"], etlua: ["lua", "markup-templating"], erb: ["ruby", "markup-templating"], fsharp: "clike", "firestore-security-rules": "clike", flow: "javascript", ftl: "markup-templating", gml: "clike", glsl: "c", go: "clike", gradle: "clike", groovy: "clike", haml: "ruby", handlebars: "markup-templating", haxe: "clike", hlsl: "c", idris: "haskell", java: "clike", javadoc: ["markup", "java", "javadoclike"], jolie: "clike", jsdoc: ["javascript", "javadoclike", "typescript"], "js-extras": "javascript", json5: "json", jsonp: "json", "js-templates": "javascript", kotlin: "clike", latte: ["clike", "markup-templating", "php"], less: "css", lilypond: "scheme", liquid: "markup-templating", markdown: "markup", "markup-templating": "markup", mongodb: "javascript", n4js: "javascript", objectivec: "c", opencl: "c", parser: "markup", php: "markup-templating", phpdoc: ["php", "javadoclike"], "php-extras": "php", plsql: "sql", processing: "clike", protobuf: "clike", pug: ["markup", "javascript"], purebasic: "clike", purescript: "haskell", qsharp: "clike", qml: "javascript", qore: "clike", racket: "scheme", cshtml: ["markup", "csharp"], jsx: ["markup", "javascript"], tsx: ["jsx", "typescript"], reason: "clike", ruby: "clike", sass: "css", scss: "css", scala: "java", "shell-session": "bash", smarty: "markup-templating", solidity: "clike", soy: "markup-templating", sparql: "turtle", sqf: "clike", squirrel: "clike", stata: ["mata", "java", "python"], "t4-cs": ["t4-templating", "csharp"], "t4-vb": ["t4-templating", "vbnet"], tap: "yaml", tt2: ["clike", "markup-templating"], textile: "markup", twig: "markup-templating", typescript: "javascript", v: "clike", vala: "clike", vbnet: "basic", velocity: "markup", wiki: "markup", xeora: "markup", "xml-doc": "markup", xquery: "markup" }, a = { html: "markup", xml: "markup", svg: "markup", mathml: "markup", ssml: "markup", atom: "markup", rss: "markup", js: "javascript", g4: "antlr4", ino: "arduino", "arm-asm": "armasm", art: "arturo", adoc: "asciidoc", avs: "avisynth", avdl: "avro-idl", gawk: "awk", sh: "bash", shell: "bash", shortcode: "bbcode", rbnf: "bnf", oscript: "bsl", cs: "csharp", dotnet: "csharp", cfc: "cfscript", "cilk-c": "cilkc", "cilk-cpp": "cilkcpp", cilk: "cilkcpp", coffee: "coffeescript", conc: "concurnas", jinja2: "django", "dns-zone": "dns-zone-file", dockerfile: "docker", gv: "dot", eta: "ejs", xlsx: "excel-formula", xls: "excel-formula", gamemakerlanguage: "gml", po: "gettext", gni: "gn", ld: "linker-script", "go-mod": "go-module", hbs: "handlebars", mustache: "handlebars", hs: "haskell", idr: "idris", gitignore: "ignore", hgignore: "ignore", npmignore: "ignore", webmanifest: "json", kt: "kotlin", kts: "kotlin", kum: "kumir", tex: "latex", context: "latex", ly: "lilypond", emacs: "lisp", elisp: "lisp", "emacs-lisp": "lisp", md: "markdown", moon: "moonscript", n4jsd: "n4js", nani: "naniscript", objc: "objectivec", qasm: "openqasm", objectpascal: "pascal", px: "pcaxis", pcode: "peoplecode", plantuml: "plant-uml", pq: "powerquery", mscript: "powerquery", pbfasm: "purebasic", purs: "purescript", py: "python", qs: "qsharp", rkt: "racket", razor: "cshtml", rpy: "renpy", res: "rescript", robot: "robotframework", rb: "ruby", "sh-session": "shell-session", shellsession: "shell-session", smlnj: "sml", sol: "solidity", sln: "solution-file", rq: "sparql", sclang: "supercollider", t4: "t4-cs", trickle: "tremor", troy: "tremor", trig: "turtle", ts: "typescript", tsconfig: "typoscript", uscript: "unrealscript", uc: "unrealscript", url: "uri", vb: "visual-basic", vba: "visual-basic", webidl: "web-idl", mathematica: "wolfram", nb: "wolfram", wl: "wolfram", xeoracube: "xeora", yml: "yaml" }, r = {}, s = "components/", i = Prism.util.currentScript();
           if (i) {
             var t = /\bplugins\/autoloader\/prism-autoloader\.(?:min\.)?js(?:\?[^\r\n/]*)?$/i, c = /(^|\/)[\w-]+\.(?:min\.)?js(?:\?[^\r\n/]*)?$/i, l = i.getAttribute("data-autoloader-path");
-            if (null != l)
-              s = l.trim().replace(/\/?$/, "/");
+            if (null != l) s = l.trim().replace(/\/?$/, "/");
             else {
               var p = i.src;
               t.test(p) ? s = p.replace(t, "components/") : c.test(p) && (s = p.replace(c, "$1components/"));
@@ -426,10 +388,8 @@
           });
         }
         function o(e2) {
-          if (e2.indexOf("!") >= 0)
-            return false;
-          if ((e2 = a[e2] || e2) in Prism.languages)
-            return true;
+          if (e2.indexOf("!") >= 0) return false;
+          if ((e2 = a[e2] || e2) in Prism.languages) return true;
           var s2 = r[e2];
           return s2 && !s2.error && false === s2.loading;
         }
@@ -500,8 +460,7 @@
               var l = e, d = function(e2) {
                 for (; e2; ) {
                   var t2 = e2.getAttribute("data-toolbar-order");
-                  if (null != t2)
-                    return (t2 = t2.trim()).length ? t2.split(/\s*,\s*/g) : [];
+                  if (null != t2) return (t2 = t2.trim()).length ? t2.split(/\s*,\s*/g) : [];
                   e2 = e2.parentElement;
                 }
               }(a2.element);
@@ -549,8 +508,7 @@
           var o = e.element, n = function(t2) {
             var e2 = { copy: "Copy", "copy-error": "Press Ctrl+C to copy", "copy-success": "Copied!", "copy-timeout": 5e3 };
             for (var o2 in e2) {
-              for (var n2 = "data-prismjs-" + o2, c2 = t2; c2 && !c2.hasAttribute(n2); )
-                c2 = c2.parentElement;
+              for (var n2 = "data-prismjs-" + o2, c2 = t2; c2 && !c2.hasAttribute(n2); ) c2 = c2.parentElement;
               c2 && (e2[o2] = c2.getAttribute(n2));
             }
             return e2;

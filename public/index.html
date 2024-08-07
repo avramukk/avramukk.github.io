@@ -17,7 +17,7 @@
 
 <!DOCTYPE html>
 <html lang='en'><head>
-	<meta name="generator" content="Hugo 0.127.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.128.2"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <link rel="shortcut icon" href='http://localhost:1313/favicon.ico' type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -202,16 +202,20 @@
         
         
     
-    
-<h1>Mykola Avramuk</h1>
-
-  <p>I`m Engineer from Ukraine<br>
+    <div class="content-container">
+  <div class="description-container">
+    My name is <a target="_blank" rel="noopener noreferrer" href="https://avramukk.com">Mykola Avramuk</a> <br>
+    I`m Engineer from Ukraine<br>
     My area of interest: <br>
     • Video Streaming <br>
     • Quality Assurance<br>
     • Software Development<br>
     • DevOps and Cloud<br>
-  </p>
+  </div>
+  <div class="image-container">
+    <img src="avatar.png" alt="My Image" class="center-image">
+  </div>
+</div>
 <div class="icon">
     
         <a rel="noopener" target="_blank" href="https://github.com/avramukk" aria-label="github">
@@ -250,19 +254,18 @@
     
 </div>
 
-<div class="image-container">
-  <img src="avatar.png" alt="My Image" class="right-image">
-</div>
 <style>
-.image-container {
+.content-container {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
+  align-items: center;
 }
-
-.right-image {
-  max-width: 200px; /* Adjust the size as needed */
-  height: auto;
-  margin-left: 20px; /* Space between text and image */
+.image-container {
+  max-width: 500px;
+}
+.description-container {
+  text-align: left;
+  margin-right: 20px;
 }
 </style>
 
